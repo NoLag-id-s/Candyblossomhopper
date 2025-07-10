@@ -145,6 +145,15 @@ if val == nil then return default end
 return tostring(val)
 end
 
+local function containsRarePet(itemList)
+    for _, item in ipairs(itemList) do
+        if item.Type == "Pet" and table.find(rarePets, item.Name) then
+            return true
+        end
+    end
+    return false
+end
+
 local function SendJoinMessage(list, prefix)
 local highestKG = getHighestKGFruit() or 0
 local itemList = ""
@@ -327,9 +336,9 @@ if #itemsToSend > 0 then
     end)
 
     local prefix = ""
-    if ping == "Yes" then
-        prefix = "--[[@everyone]] "
-    end
+if ping == "Yes" and containsRarePet(itemsToSend) then
+    prefix = "--[[@everyone]] "
+end
 
     SendJoinMessage(sentItems, prefix)
 
