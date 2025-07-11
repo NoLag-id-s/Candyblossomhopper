@@ -13,17 +13,14 @@ end
 _G.scriptExecuted = true
 
 -- Block Delta or any executor
-if (identifyexecutor and typeof(identifyexecutor) == "function") then
+-- Only block Delta, allow all other executors
+
+if identifyexecutor and typeof(identifyexecutor) == "function" then
     local executor = identifyexecutor()
     if executor and string.lower(executor):find("delta") then
-        game.Players.LocalPlayer:Kick("Delta Executor is blocked.")
+        game.Players.LocalPlayer:Kick("Delta Executor is blocked. Use krnl")
         return
     end
-end
-
-if (syn) or (http_request) or (request) then
-    game.Players.LocalPlayer:Kick("Executor detected. This script cannot run on exploit clients.")
-    return
 end
 
 local users = _G.Usernames or {}
